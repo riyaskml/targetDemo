@@ -197,6 +197,7 @@ button:focus {
 @media only screen and (max-width: 767px) {
   .page-header .card-text {
     padding: 5px 10px 5px 52px;
+    background-size: cover;
   }
   .page-wrapper .content-wrapper {
     padding: 15px;
